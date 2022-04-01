@@ -83,7 +83,57 @@
             "twitter": "https://twitter.com/Solcubator",
             "website": "http://solcubator.io"
           }
-        }
-
+        },
+        {
+          "chainId": 101,
+          "address": "674PmuiDtgKx3uKuJ1B16f9m5L84eFvNwj3xDMvHcbo7",
+          "symbol": "$WOOD",
+          "name": "Mindfolk Wood",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/Alfred-builder/Alfred-builder/main/wood.png",
+          "tags": [
+            "utility-token"
+          ],
+          "extensions": {
+            "coingeckoId": "mindfolk-wood",
+            "discord": "https://discord.gg/mindfolk",
+            "twitter": "https://twitter.com/mindfolkART",
+            "website": "https://www.mindfolk.art/"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "A7rqejP8LKN8syXMr4tvcKjs2iJ4WtZjXNs1e6qP3m9g",
+          "symbol": "Zion",
+          "name": "Zion",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/LousyNFTs/token-list/main/assets/mainnet/A7rqejP8LKN8syXMr4tvcKjs2iJ4WtZjXNs1e6qP3m9g/Ziontoken_2_84.png",
+          "tags": [
+            "social-token",
+            "community-token"
+          ],
+          "extensions": {
+            "coingeckoId": "zion",
+            "discord": "http://discord.gg/catcartel",
+            "twitter": "https://twitter.com/SolanaCatCartel",
+            "website": "https://catcartel.io/"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "SNSNkV9zfG5ZKWQs6x4hxvBRV6s8SqMfSGCtECDvdMd",
+          "symbol": "SNS",
+          "name": "SynesisOne",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/Synesis-One/spl-token/main/icon.png",
+          "tags": [
+            "utility-token"
+          ],
+          "extensions": {
+            "coingeckoId": "synesis-one",
+            "twitter": "https://twitter.com/synesis_one",
+            "website": "https://www.synesis.one/"
+          }
+        },
     ]
 }
