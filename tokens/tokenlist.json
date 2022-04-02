@@ -1,40 +1,6 @@
 {
     "tokens": [
         {
-            "chainId": 101,
-            "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
-            "symbol": "ETH",
-            "name": "Wrapped Ethereum (Sollet)",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
-            "tags": [
-              "wrapped-sollet",
-              "ethereum"
-            ],
-            "extensions": {
-              "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-              "coingeckoId": "ethereum",
-              "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
-              "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF"
-            }
-        },
-        {
-          "chainId": 101,
-          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-          "symbol": "USDC",
-          "name": "USD Coin",
-          "decimals": 6,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-          "tags": [
-            "stablecoin"
-          ],
-          "extensions": {
-            "coingeckoId": "usd-coin",
-            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-            "website": "https://www.centre.io/"
-          }
-        },
-        {
           "chainId": 101,
           "address": "5tN42n9vMi6ubp67Uy4NnmM5DMZYN8aS8GeB3bEDHr6E",
           "symbol": "WAG",
@@ -49,7 +15,6 @@
             "website": "https://waggle.network/"
           }
         },
-        
         {
           "chainId": 101,
           "address": "FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj",
@@ -70,7 +35,6 @@
             "youtube": "https://www.youtube.com/c/TabTrader"
           }
         },
-
         {
           "chainId": 101,
           "address": "Bx1fDtvTN6NvE4kjdPHQXtmGSg582bZx9fGy4DQNMmAT",
