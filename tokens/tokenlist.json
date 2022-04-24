@@ -2,6 +2,17 @@
     "tokens": [
         {
           "chainId": 101,
+          "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+          "symbol": "GMT",
+          "name": "GMT",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx/logo.png",
+          "extensions": {
+            "website": "https://stepn.com/"
+          }
+        },
+        {
+          "chainId": 101,
           "address": "5tN42n9vMi6ubp67Uy4NnmM5DMZYN8aS8GeB3bEDHr6E",
           "symbol": "WAG",
           "name": "Waggle Network",
