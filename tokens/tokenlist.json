@@ -8,6 +8,7 @@
           "decimals": 9,
           "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx/logo.png",
           "extensions": {
+            "coingeckoId": "stepn",
             "website": "https://stepn.com/"
           }
         },
@@ -124,6 +125,7 @@
                 "vici"
             ],
             "extensions": {
+                "coingeckoId": "zebec-protocol",
                 "description":"Zebec is a continuous Settlement Protocol that will transform payroll, cash flow, and token vesting by allowing users to send payments and distributions every second.",
                 "discord":"https://discord.gg/gYCe7h8p",
                 "telegram":"https://t.me/zebececosystem",
@@ -142,6 +144,7 @@
             "utility-token"
           ],
           "extensions": {
+            "coingeckoId": "dragon-war",
             "description": "Dragon War Token",
             "discord": "https://discord.gg/kFUmzU6nCH",
             "facebook": "https://fb.com/dragonwar.io",
