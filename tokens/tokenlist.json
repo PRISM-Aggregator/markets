@@ -2,6 +2,26 @@
     "tokens": [
         {
           "chainId": 101,
+          "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+          "symbol": "BNB",
+          "name": "Binance Coin (Portal)",
+          "decimals": 8,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
+          "tags": [
+            "wrapped",
+            "wormhole"
+          ],
+          "extensions": {
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "assetContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "coingeckoId": "binance-coin-wormhole",
+            "serumV3Usdc": "4UPUurKveNEJgBqJzqHPyi8DhedvpYsMXi7d43CjAg2f",
+            "serumV3Usdt": "FjbKNZME5yVSC1R3HJM99kB3yir3q3frS5MteMFD72sV"
+          }
+        },
+        {
+          "chainId": 101,
           "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
           "symbol": "GMT",
           "name": "GMT",
