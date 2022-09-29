@@ -1,0 +1,48 @@
+{
+    "tokens": [
+        {
+          "chainId": 2,
+          "address": "0x1::aptos_coin::AptosCoin",
+          "symbol": "APT",
+          "name": "Aptos Coin",
+          "decimals": 8,
+          "logoURI": "https://assets.coingecko.com/coins/images/26455/small/Aptos_mark_BLK.png",
+          "extensions": {
+            "coingeckoId": "aptos",
+          }
+        },
+        {
+          "chainId": 2,
+          "address": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "decimals": 8,
+          "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
+          "extensions": {
+            "coingeckoId": "bitcoin",
+          }
+        },
+        {
+          "chainId": 2,
+          "address": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
+          "symbol": "USDT",
+          "name": "Tether",
+          "decimals": 6,
+          "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png",
+          "extensions": {
+            "coingeckoId": "tether",
+          }
+        },
+        {
+          "chainId": 2,
+          "address": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::USDC",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png",
+          "extensions": {
+            "coingeckoId": "usd-coin",
+          }
+        },
+    ]
+}
