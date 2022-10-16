@@ -180,7 +180,8 @@
           "address": "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",
           "symbol": "AVAX",
           "name": "Wrapped AVAX (Wormhole)",
-          "decimals": 0,
+          "decimals": 8,
+          "pyth": "Ax9ujW5B9oqcv59N8m6f1BpTBq2rGeGaBcpKjC5UYsXU",
           "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
           "tags": [
             "utility-token"
@@ -188,6 +189,22 @@
           "extensions": {
             "coingeckoId": "avalanche",
             "description": "Avalanche"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "BYPsjxa3YuZESQz1dKuBw1QSFCSpecsm8nCQhY5xbU1Z",
+          "symbol": "NEAR",
+          "name": "NEAR (Allbridge from Near)",
+          "decimals": 9,
+          "pyth": "ECSFWQ1bnnpqPVvoy9237t2wddZAaHisW88mYxuEHKWf",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYPsjxa3YuZESQz1dKuBw1QSFCSpecsm8nCQhY5xbU1Z/logo.png",
+          "tags": [
+            "utility-token"
+          ],
+          "extensions": {
+            "coingeckoId": "near",
+            "description": "Near"
           }
         }
     ]
