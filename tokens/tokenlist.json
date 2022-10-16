@@ -187,7 +187,7 @@
             "utility-token"
           ],
           "extensions": {
-            "coingeckoId": "avalanche",
+            "coingeckoId": "avalanche-2",
             "description": "Avalanche"
           }
         },
