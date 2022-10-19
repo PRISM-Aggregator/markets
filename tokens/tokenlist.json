@@ -206,6 +206,21 @@
             "coingeckoId": "near",
             "description": "Near"
           }
+        },
+        ,
+        {
+          "chainId": 101,
+          "address": "9tQhCmFtCh56qqf9szLQ8dNjYcd4TTv6MWPpw6MqLubu",
+          "symbol": "CMPN",
+          "name": "Companion",
+          "decimals": 6,
+          "logoURI": "https://a6ou2q2zunxut3ietvj34smyyr25ymnx3knyykrb4jncaiobfeda.arweave.net/B51NQ1mjb0ntBJ1TvkmYxHXcMbfam4wqIeJaICHBKQY?ext=png",
+          "tags": [
+            "utility-token"
+          ],
+          "extensions": {
+            "description": "Companion"
+          }
         }
     ]
 }
