@@ -236,7 +236,8 @@
             "utility-token"
           ],
           "extensions": {
-            "description": "Companion"
+            "description": "Companion",
+            "coingeckoId": "companion"
           }
         }
     ]
