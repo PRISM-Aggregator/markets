@@ -252,7 +252,8 @@
           ],
           "extensions": {
             "discord": "https://discord.gg/M4F8RKqgce",
-            "twitter": "https://twitter.com/arbprotocol"
+            "twitter": "https://twitter.com/arbprotocol",
+            "coingeckoId": "arb-protocol"
           }
         }
     ]
