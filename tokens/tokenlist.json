@@ -18,6 +18,7 @@
                 "serumV3Usdt":"C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4"
             }
         },
+        {"chainId":101,"address":"boooCKXQn9YTK2aqN5pWftQeb9TH7cj7iUKuVCShWQx","symbol":"BOO","name":"Boo Network","decimals":9,"logoURI":"https://arweave.net/Reo2_w4k9PGdtYX3p8BllNZpSbbIJ-zype0qdbQgsoE","tags":["utility-token"],"extensions":{"twitter":"https://twitter.com/GhostKidDAO","website":"https://tinyurl.com/ghostkiddao"}},
         {
           "chainId": 101,
           "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
