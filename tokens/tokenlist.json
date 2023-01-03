@@ -2,6 +2,22 @@
     "tokens": [
         {
             "chainId":101,
+            "address":"DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "symbol":"BONK",
+            "name":"Bonk",
+            "decimals":6,
+            "logoURI":"https://quei6zhlcfsxdfyes577gy7bkxmuz7qqakyt72xlbkyh7fysmoza.arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+            "tags":[
+                "bonk-coin",
+                "ethereum"
+            ],
+            "extensions":{
+                "coingeckoId":"bonk",
+                "serumV3Usdc":"8PhnCfgqpgFM7ZJvttGdBVMXHuU4Q23ACxCvWkbs1M71",
+            }
+        },
+        {
+            "chainId":101,
             "address":"9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
             "symbol":"soBTC",
             "name":"Wrapped Bitcoin (Sollet)",
