@@ -35,16 +35,17 @@
 		},
 		{
 			"chainId": 101,
-			"address": "boooCKXQn9YTK2aqN5pWftQeb9TH7cj7iUKuVCShWQx",
-			"symbol": "BOO",
-			"name": "Boo Network",
-			"decimals": 9,
-			"logoURI": "https://arweave.net/Reo2_w4k9PGdtYX3p8BllNZpSbbIJ-zype0qdbQgsoE",
-			"tags": ["utility-token"],
-			"extensions": {
-				"twitter": "https://twitter.com/GhostKidDAO",
-				"website": "https://tinyurl.com/ghostkiddao"
-			}
+      "address": "FfpyoV365c7iR8QQg5NHGCXQfahbqzY67B3wpzXkiLXr",
+      "symbol": "BOO",
+      "name": "Boo",
+      "decimals": 6,
+      "logoURI": "https://twitter.com/boo_solana/photo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/boo_solana"
+      }
 		},
 		{
 			"chainId": 101,
