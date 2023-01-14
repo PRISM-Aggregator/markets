@@ -3,6 +3,18 @@
 		{
 			"chainId": 101,
 			"address": "isktkk27QaTpoRUhwwS5n9YUoYf8ydCuoTz5R2tFEKu",
+			"symbol": "LMDA",
+			"name": "lambda.markets",
+			"decimals": 6,
+			"logoURI": "https://5mwz4y7cqrubxobjwzfsoawcjucbixqvsu6kyy4b3sloxuhqenfa.arweave.net/6y2eY-KEaBu4KbZLJwLCTQQUXhWVPKxjgdyW69DwI0o",
+			"tags": ["LMDA"],
+			"extensions": {
+				"serumV3Usdc": "Epg66q6wPQbNyyegh8ZiP3iAgway4XFPS99UU3fzMaee"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "isktkk27QaTpoRUhwwS5n9YUoYf8ydCuoTz5R2tFEKu",
 			"symbol": "ISKT",
 			"name": "Rafkróna",
 			"decimals": 2,
