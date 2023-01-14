@@ -7,10 +7,9 @@
 			"name": "Rafkróna",
 			"decimals": 2,
 			"logoURI": "https://rafmyntasjodur.github.io/iskt-metadata/logo.png",
-			"tags": [
-			],
+			"tags": ["ISKT"],
 			"extensions": {
-				"serumV3Usdc": "7fcy5Mi4eQ8jxT1uThkpcYjC5FjjTojK9xSyKXQmHa1S",
+				"serumV3Usdc": "7fcy5Mi4eQ8jxT1uThkpcYjC5FjjTojK9xSyKXQmHa1S"
 			}
 		},
 		{
