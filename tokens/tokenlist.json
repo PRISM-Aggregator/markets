@@ -2,6 +2,17 @@
 	"tokens": [
 		{
 			"chainId": 101,
+			"address": "BWXrrYFhT7bMHmNBFoQFWdsSgA3yXoAnMhDK6Fn1eSEn",
+			"symbol": "HADES",
+			"name": "Hades",
+			"decimals": 9,
+			"logoURI": "https://arweave.net/dvKu5BgpSo6j-iGzQOyVXYZ8OU7iyfhHNpkkJ_8qkkQ",
+			"extensions": {
+				"coingeckoId": "hades"
+			}
+		},
+		{
+			"chainId": 101,
 			"address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
 			"symbol": "JitoSOL",
 			"name": "Jito Staked SOL",
