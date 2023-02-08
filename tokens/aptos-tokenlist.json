@@ -5,42 +5,53 @@
 			"symbol": "APT",
 			"name": "Aptos Coin",
 			"decimals": 8,
-			"logoURI": "https://assets.coingecko.com/coins/images/26455/small/Aptos_mark_BLK.png",
+			"logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/APT.webp",
 			"extensions": {
 				"coingeckoId": "aptos"
 			}
 		},
 		{
 			"chainId": 2,
-			"address": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
+			"address": "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T",
 			"symbol": "BTC",
-			"name": "Bitcoin",
+			"name": "Wrapped BTC (Wormhole)",
 			"decimals": 8,
-			"logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
+			"logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/BTC.webp",
 			"extensions": {
 				"coingeckoId": "bitcoin"
 			}
 		},
 		{
 			"chainId": 2,
-			"address": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
-			"symbol": "USDT",
-			"name": "Tether",
+			"address": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
+			"symbol": "USDC",
+			"name": "USD Coin (Wormhole)",
 			"decimals": 6,
-			"logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png",
+			"logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
+			"extensions": {
+				"coingeckoId": "usd-coin"
+			}
+		},
+		{
+			"chainId": 2,
+			"address": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
+			"symbol": "USDT",
+			"name": "Tether USD (Wormhole)",
+			"decimals": 6,
+			"logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDT.svg",
 			"extensions": {
 				"coingeckoId": "tether"
 			}
 		},
 		{
 			"chainId": 2,
-			"address": "0xb4d7b2466d211c1f4629e8340bb1a9e75e7f8fb38cc145c54c5c9f9d5017a318::coins_extended::USDC",
-			"symbol": "USDC",
-			"name": "USD Coin",
-			"decimals": 6,
-			"logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png",
+			"address": "0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T",
+			"symbol": "SOL",
+			"name": "SOL (Wormhole)",
+			"decimals": 8,
+			"logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/SOL.webp",
 			"extensions": {
-				"coingeckoId": "usd-coin"
+				"coingeckoId": "solana"
 			}
 		}
 	]

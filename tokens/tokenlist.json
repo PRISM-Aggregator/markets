@@ -1,244 +1,336 @@
 {
-    "tokens": [
-        {
-            "chainId":101,
-            "address":"9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
-            "symbol":"soBTC",
-            "name":"Wrapped Bitcoin (Sollet)",
-            "decimals":6,
-            "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
-            "tags":[
-                "wrapped-sollet",
-                "ethereum"
-            ],
-            "extensions":{
-                "bridgeContract":"https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-                "coingeckoId":"bitcoin",
-                "serumV3Usdc":"A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
-                "serumV3Usdt":"C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4"
-            }
-        },
-        {
-          "chainId": 101,
-          "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
-          "symbol": "BNB",
-          "name": "Binance Coin (Portal)",
-          "decimals": 8,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
-          "tags": [
-            "wrapped",
-            "wormhole"
-          ],
-          "extensions": {
-            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-            "assetContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
-            "coingeckoId": "binancecoin", 
-            "serumV3Usdc": "4UPUurKveNEJgBqJzqHPyi8DhedvpYsMXi7d43CjAg2f",
-            "serumV3Usdt": "FjbKNZME5yVSC1R3HJM99kB3yir3q3frS5MteMFD72sV"
-          }
-        },
-        {
-          "chainId": 101,
-          "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
-          "symbol": "GMT",
-          "name": "GMT",
-          "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx/logo.png",
-          "extensions": {
-            "coingeckoId": "stepn",
-            "website": "https://stepn.com/"
-          }
-        },
-        {
-          "chainId": 101,
-          "address": "5tN42n9vMi6ubp67Uy4NnmM5DMZYN8aS8GeB3bEDHr6E",
-          "symbol": "WAG",
-          "name": "Waggle Network",
-          "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5tN42n9vMi6ubp67Uy4NnmM5DMZYN8aS8GeB3bEDHr6E/logo.png",
-          "extensions": {
-            "coingeckoId": "waggle-network",
-            "medium": "https://medium.com/@wagglenetwork",
-            "telegram": "https://t.me/waggle_network",
-            "twitter": "https://twitter.com/wagglenetwork",
-            "website": "https://waggle.network/"
-          }
-        },
-        {
-          "chainId": 101,
-          "address": "FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj",
-          "symbol": "TTT",
-          "name": "TabTrader Token",
-          "decimals": 6,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj/logo.svg",
-          "tags": [
-            "utility-token"
-          ],
-          "extensions": {
-            "coingeckoId": "tabtrader",
-            "description": "TabTrader allows users to trade anywhere and anytime from their mobile device with all the main crypto exchanges accessible through a unified interface.",
-            "discord": "https://discord.gg/pSMjEh7paU",
-            "medium": "https://medium.com/@tabtraderbtc",
-            "twitter": "https://twitter.com/tabtraderpro",
-            "website": "https://tab-trader.com/",
-            "youtube": "https://www.youtube.com/c/TabTrader"
-          }
-        },
-        {
-          "chainId": 101,
-          "address": "Bx1fDtvTN6NvE4kjdPHQXtmGSg582bZx9fGy4DQNMmAT",
-          "symbol": "SOLC",
-          "name": "Solcubator",
-          "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bx1fDtvTN6NvE4kjdPHQXtmGSg582bZx9fGy4DQNMmAT/logo.png",
-          "extensions": {
-            "coingeckoId": "solcubator",
-            "twitter": "https://twitter.com/Solcubator",
-            "website": "http://solcubator.io"
-          }
-        },
-        {
-          "chainId": 101,
-          "address": "674PmuiDtgKx3uKuJ1B16f9m5L84eFvNwj3xDMvHcbo7",
-          "symbol": "$WOOD",
-          "name": "Mindfolk Wood",
-          "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/Alfred-builder/Alfred-builder/main/wood.png",
-          "tags": [
-            "utility-token"
-          ],
-          "extensions": {
-            "coingeckoId": "mindfolk-wood",
-            "discord": "https://discord.gg/mindfolk",
-            "twitter": "https://twitter.com/mindfolkART",
-            "website": "https://www.mindfolk.art/"
-          }
-        },
-        {
-          "chainId": 101,
-          "address": "A7rqejP8LKN8syXMr4tvcKjs2iJ4WtZjXNs1e6qP3m9g",
-          "symbol": "Zion",
-          "name": "Zion",
-          "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/LousyNFTs/token-list/main/assets/mainnet/A7rqejP8LKN8syXMr4tvcKjs2iJ4WtZjXNs1e6qP3m9g/Ziontoken_2_84.png",
-          "tags": [
-            "social-token",
-            "community-token"
-          ],
-          "extensions": {
-            "coingeckoId": "zion",
-            "discord": "http://discord.gg/catcartel",
-            "twitter": "https://twitter.com/SolanaCatCartel",
-            "website": "https://catcartel.io/"
-          }
-        },
-        {
-          "chainId": 101,
-          "address": "SNSNkV9zfG5ZKWQs6x4hxvBRV6s8SqMfSGCtECDvdMd",
-          "symbol": "SNS",
-          "name": "SynesisOne",
-          "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/Synesis-One/spl-token/main/icon.png",
-          "tags": [
-            "utility-token"
-          ],
-          "extensions": {
-            "coingeckoId": "synesis-one",
-            "twitter": "https://twitter.com/synesis_one",
-            "website": "https://www.synesis.one/"
-          }
-        },
-        {
-            "chainId":101,
-            "address":"zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF",
-            "symbol":"ZBC",
-            "name":"ZEBEC",
-            "decimals":9,
-            "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF/logo.png",
-            "tags":[
-                "utility-token",
-                "veni",
-                "vidi",
-                "vici"
-            ],
-            "extensions": {
-                "coingeckoId": "zebec-protocol",
-                "description":"Zebec is a continuous Settlement Protocol that will transform payroll, cash flow, and token vesting by allowing users to send payments and distributions every second.",
-                "discord":"https://discord.gg/gYCe7h8p",
-                "telegram":"https://t.me/zebececosystem",
-                "twitter":"https://twitter.com/Zebec_HQ",
-                "website":"https://zebec.io"
-            }
-        },
-        {
-          "chainId": 101,
-          "address": "48AEwauAHsJibyt3WqjQ6EoHnFBcnyHASfo7vB2eCXPS",
-          "symbol": "DRAW",
-          "name": "DragonWar",
-          "decimals": 0,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/48AEwauAHsJibyt3WqjQ6EoHnFBcnyHASfo7vB2eCXPS/logo.png",
-          "tags": [
-            "utility-token"
-          ],
-          "extensions": {
-            "coingeckoId": "dragon-war",
-            "description": "Dragon War Token",
-            "discord": "https://discord.gg/kFUmzU6nCH",
-            "facebook": "https://fb.com/dragonwar.io",
-            "medium": "https://medium.com/@dragonwar",
-            "telegram": "https://t.me/dragonwarglobal",
-            "twitter": "https://twitter.com/io_dragonwar",
-            "website": "https://dragonwar.io",
-            "youtube": "https://youtube.com/channel/UCzl9Gsl58YR9MyL2650tg8w"
-          }
-        },
-        {
-          "chainId": 101,
-          "address": "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",
-          "symbol": "AVAX",
-          "name": "Wrapped AVAX (Wormhole)",
-          "decimals": 8,
-          "pyth": "Ax9ujW5B9oqcv59N8m6f1BpTBq2rGeGaBcpKjC5UYsXU",
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
-          "tags": [
-            "utility-token"
-          ],
-          "extensions": {
-            "coingeckoId": "avalanche-2",
-            "description": "Avalanche"
-          }
-        },
-        {
-          "chainId": 101,
-          "address": "BYPsjxa3YuZESQz1dKuBw1QSFCSpecsm8nCQhY5xbU1Z",
-          "symbol": "NEAR",
-          "name": "NEAR (Allbridge from Near)",
-          "decimals": 9,
-          "pyth": "ECSFWQ1bnnpqPVvoy9237t2wddZAaHisW88mYxuEHKWf",
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYPsjxa3YuZESQz1dKuBw1QSFCSpecsm8nCQhY5xbU1Z/logo.png",
-          "tags": [
-            "utility-token"
-          ],
-          "extensions": {
-            "coingeckoId": "near",
-            "description": "Near"
-          }
-        },
-        {
-          "chainId": 101,
-          "address": "9tQhCmFtCh56qqf9szLQ8dNjYcd4TTv6MWPpw6MqLubu",
-          "symbol": "CMPN",
-          "name": "Companion",
-          "decimals": 6,
-          "logoURI": "https://a6ou2q2zunxut3ietvj34smyyr25ymnx3knyykrb4jncaiobfeda.arweave.net/B51NQ1mjb0ntBJ1TvkmYxHXcMbfam4wqIeJaICHBKQY?ext=png",
-          "tags": [
-            "utility-token"
-          ],
-          "extensions": {
-            "description": "Companion",
-            "coingeckoId": "companion"
-          }
-        }
-    ]
+	"tokens": [
+		{
+			"chainId": 101,
+			"address": "BWXrrYFhT7bMHmNBFoQFWdsSgA3yXoAnMhDK6Fn1eSEn",
+			"symbol": "HADES",
+			"name": "Hades",
+			"decimals": 9,
+			"logoURI": "https://arweave.net/dvKu5BgpSo6j-iGzQOyVXYZ8OU7iyfhHNpkkJ_8qkkQ",
+			"extensions": {
+				"coingeckoId": "hades"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+			"symbol": "JitoSOL",
+			"name": "Jito Staked SOL",
+			"decimals": 9,
+			"logoURI": "https://storage.googleapis.com/token-metadata/JitoSOL-256.png",
+			"extensions": {
+				"coingeckoId": "jito-staked-sol"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "LMDAmLNduiDmSiMxgae1gW7ubArfEGdAfTpKohqE5gn",
+			"symbol": "LMDA",
+			"name": "lambda.markets",
+			"decimals": 6,
+			"logoURI": "https://5mwz4y7cqrubxobjwzfsoawcjucbixqvsu6kyy4b3sloxuhqenfa.arweave.net/6y2eY-KEaBu4KbZLJwLCTQQUXhWVPKxjgdyW69DwI0o",
+			"tags": ["LMDA"],
+			"extensions": {
+				"serumV3Usdc": "Epg66q6wPQbNyyegh8ZiP3iAgway4XFPS99UU3fzMaee"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "isktkk27QaTpoRUhwwS5n9YUoYf8ydCuoTz5R2tFEKu",
+			"symbol": "ISKT",
+			"name": "Rafkróna",
+			"decimals": 2,
+			"logoURI": "https://rafmyntasjodur.github.io/iskt-metadata/logo.png",
+			"tags": ["ISKT"],
+			"extensions": {
+				"serumV3Usdc": "7fcy5Mi4eQ8jxT1uThkpcYjC5FjjTojK9xSyKXQmHa1S"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+			"symbol": "BONK",
+			"name": "Bonk",
+			"decimals": 5,
+			"logoURI": "https://quei6zhlcfsxdfyes577gy7bkxmuz7qqakyt72xlbkyh7fysmoza.arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+			"tags": [
+				"bonk-coin",
+				"ethereum"
+			],
+			"extensions": {
+				"coingeckoId": "bonk",
+				"serumV3Usdc": "8PhnCfgqpgFM7ZJvttGdBVMXHuU4Q23ACxCvWkbs1M71"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+			"symbol": "soBTC",
+			"name": "Wrapped Bitcoin (Sollet)",
+			"decimals": 6,
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+			"tags": [
+				"wrapped-sollet",
+				"ethereum"
+			],
+			"extensions": {
+				"bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+				"coingeckoId": "bitcoin",
+				"serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
+				"serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4"
+			}
+		},
+		{
+			"chainId": 101,
+      "address": "FfpyoV365c7iR8QQg5NHGCXQfahbqzY67B3wpzXkiLXr",
+      "symbol": "BOO",
+      "name": "Boo",
+      "decimals": 6,
+      "logoURI": "https://media.discordapp.net/attachments/1060796883687190536/1060801980034981919/boo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/boo_solana"
+      }
+		},
+		{
+			"chainId": 101,
+			"address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+			"symbol": "BNB",
+			"name": "Binance Coin (Portal)",
+			"decimals": 8,
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
+			"tags": [
+				"wrapped",
+				"wormhole"
+			],
+			"extensions": {
+				"address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+				"assetContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+				"bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+				"coingeckoId": "binancecoin",
+				"serumV3Usdc": "4UPUurKveNEJgBqJzqHPyi8DhedvpYsMXi7d43CjAg2f",
+				"serumV3Usdt": "FjbKNZME5yVSC1R3HJM99kB3yir3q3frS5MteMFD72sV"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+			"symbol": "GMT",
+			"name": "GMT",
+			"decimals": 9,
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx/logo.png",
+			"extensions": {
+				"coingeckoId": "stepn",
+				"website": "https://stepn.com/"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "5tN42n9vMi6ubp67Uy4NnmM5DMZYN8aS8GeB3bEDHr6E",
+			"symbol": "WAG",
+			"name": "Waggle Network",
+			"decimals": 9,
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5tN42n9vMi6ubp67Uy4NnmM5DMZYN8aS8GeB3bEDHr6E/logo.png",
+			"extensions": {
+				"coingeckoId": "waggle-network",
+				"medium": "https://medium.com/@wagglenetwork",
+				"telegram": "https://t.me/waggle_network",
+				"twitter": "https://twitter.com/wagglenetwork",
+				"website": "https://waggle.network/"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj",
+			"symbol": "TTT",
+			"name": "TabTrader Token",
+			"decimals": 6,
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj/logo.svg",
+			"tags": [
+				"utility-token"
+			],
+			"extensions": {
+				"coingeckoId": "tabtrader",
+				"description": "TabTrader allows users to trade anywhere and anytime from their mobile device with all the main crypto exchanges accessible through a unified interface.",
+				"discord": "https://discord.gg/pSMjEh7paU",
+				"medium": "https://medium.com/@tabtraderbtc",
+				"twitter": "https://twitter.com/tabtraderpro",
+				"website": "https://tab-trader.com/",
+				"youtube": "https://www.youtube.com/c/TabTrader"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "Bx1fDtvTN6NvE4kjdPHQXtmGSg582bZx9fGy4DQNMmAT",
+			"symbol": "SOLC",
+			"name": "Solcubator",
+			"decimals": 9,
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bx1fDtvTN6NvE4kjdPHQXtmGSg582bZx9fGy4DQNMmAT/logo.png",
+			"extensions": {
+				"coingeckoId": "solcubator",
+				"twitter": "https://twitter.com/Solcubator",
+				"website": "http://solcubator.io"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "674PmuiDtgKx3uKuJ1B16f9m5L84eFvNwj3xDMvHcbo7",
+			"symbol": "$WOOD",
+			"name": "Mindfolk Wood",
+			"decimals": 9,
+			"logoURI": "https://raw.githubusercontent.com/Alfred-builder/Alfred-builder/main/wood.png",
+			"tags": [
+				"utility-token"
+			],
+			"extensions": {
+				"coingeckoId": "mindfolk-wood",
+				"discord": "https://discord.gg/mindfolk",
+				"twitter": "https://twitter.com/mindfolkART",
+				"website": "https://www.mindfolk.art/"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "A7rqejP8LKN8syXMr4tvcKjs2iJ4WtZjXNs1e6qP3m9g",
+			"symbol": "Zion",
+			"name": "Zion",
+			"decimals": 9,
+			"logoURI": "https://raw.githubusercontent.com/LousyNFTs/token-list/main/assets/mainnet/A7rqejP8LKN8syXMr4tvcKjs2iJ4WtZjXNs1e6qP3m9g/Ziontoken_2_84.png",
+			"tags": [
+				"social-token",
+				"community-token"
+			],
+			"extensions": {
+				"coingeckoId": "zion",
+				"discord": "http://discord.gg/catcartel",
+				"twitter": "https://twitter.com/SolanaCatCartel",
+				"website": "https://catcartel.io/"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "SNSNkV9zfG5ZKWQs6x4hxvBRV6s8SqMfSGCtECDvdMd",
+			"symbol": "SNS",
+			"name": "SynesisOne",
+			"decimals": 9,
+			"logoURI": "https://raw.githubusercontent.com/Synesis-One/spl-token/main/icon.png",
+			"tags": [
+				"utility-token"
+			],
+			"extensions": {
+				"coingeckoId": "synesis-one",
+				"twitter": "https://twitter.com/synesis_one",
+				"website": "https://www.synesis.one/"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF",
+			"symbol": "ZBC",
+			"name": "ZEBEC",
+			"decimals": 9,
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF/logo.png",
+			"tags": [
+				"utility-token",
+				"veni",
+				"vidi",
+				"vici"
+			],
+			"extensions": {
+				"coingeckoId": "zebec-protocol",
+				"description": "Zebec is a continuous Settlement Protocol that will transform payroll, cash flow, and token vesting by allowing users to send payments and distributions every second.",
+				"discord": "https://discord.gg/gYCe7h8p",
+				"telegram": "https://t.me/zebececosystem",
+				"twitter": "https://twitter.com/Zebec_HQ",
+				"website": "https://zebec.io"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "48AEwauAHsJibyt3WqjQ6EoHnFBcnyHASfo7vB2eCXPS",
+			"symbol": "DRAW",
+			"name": "DragonWar",
+			"decimals": 0,
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/48AEwauAHsJibyt3WqjQ6EoHnFBcnyHASfo7vB2eCXPS/logo.png",
+			"tags": [
+				"utility-token"
+			],
+			"extensions": {
+				"coingeckoId": "dragon-war",
+				"description": "Dragon War Token",
+				"discord": "https://discord.gg/kFUmzU6nCH",
+				"facebook": "https://fb.com/dragonwar.io",
+				"medium": "https://medium.com/@dragonwar",
+				"telegram": "https://t.me/dragonwarglobal",
+				"twitter": "https://twitter.com/io_dragonwar",
+				"website": "https://dragonwar.io",
+				"youtube": "https://youtube.com/channel/UCzl9Gsl58YR9MyL2650tg8w"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",
+			"symbol": "AVAX",
+			"name": "Wrapped AVAX (Wormhole)",
+			"decimals": 8,
+			"pyth": "Ax9ujW5B9oqcv59N8m6f1BpTBq2rGeGaBcpKjC5UYsXU",
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
+			"tags": [
+				"utility-token"
+			],
+			"extensions": {
+				"coingeckoId": "avalanche-2",
+				"description": "Avalanche"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "BYPsjxa3YuZESQz1dKuBw1QSFCSpecsm8nCQhY5xbU1Z",
+			"symbol": "NEAR",
+			"name": "NEAR (Allbridge from Near)",
+			"decimals": 9,
+			"pyth": "ECSFWQ1bnnpqPVvoy9237t2wddZAaHisW88mYxuEHKWf",
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYPsjxa3YuZESQz1dKuBw1QSFCSpecsm8nCQhY5xbU1Z/logo.png",
+			"tags": [
+				"utility-token"
+			],
+			"extensions": {
+				"coingeckoId": "near",
+				"description": "Near"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "9tQhCmFtCh56qqf9szLQ8dNjYcd4TTv6MWPpw6MqLubu",
+			"symbol": "CMPN",
+			"name": "Companion",
+			"decimals": 6,
+			"logoURI": "https://a6ou2q2zunxut3ietvj34smyyr25ymnx3knyykrb4jncaiobfeda.arweave.net/B51NQ1mjb0ntBJ1TvkmYxHXcMbfam4wqIeJaICHBKQY?ext=png",
+			"tags": [
+				"utility-token"
+			],
+			"extensions": {
+				"description": "Companion",
+				"coingeckoId": "companion"
+			}
+		},
+		{
+			"chainId": 101,
+			"address": "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh",
+			"symbol": "ARB",
+			"name": "ARB Protocol",
+			"decimals": 6,
+			"logoURI": "https://raw.githubusercontent.com/ARBProtocol/arbprotocol/main/IMG_3600.png",
+			"tags": [
+				"utility-token"
+			],
+			"extensions": {
+				"discord": "https://discord.gg/M4F8RKqgce",
+				"twitter": "https://twitter.com/arbprotocol",
+				"coingeckoId": "arb-protocol"
+			}
+		}
+	]
 }
