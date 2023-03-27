@@ -14,7 +14,7 @@
     {
         "id": 3,
         "name": "Aldrin",
-        "logoURI": "AldrinIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/AldrinIcon.png",
         "website": "https://aldrin.com"
     },
     {
@@ -26,19 +26,19 @@
     {
         "id": 5,
         "name": "Orca",
-        "logoURI": "OrcaIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/OrcaIcon.svg",
         "website": "https://orca.so"
     },
     {
         "id": 6,
         "name": "Crema",
-        "logoURI": "CremaIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/CremaIcon.svg",
         "website": "https://www.crema.finance/"
     },
     {
         "id": 7,
         "name": "Lifinity",
-        "logoURI": "LifinityIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/LifinityIcon.svg",
         "website": "https://lifinity.io/"
     },
     {
@@ -50,13 +50,13 @@
     {
         "id": 9,
         "name": "Mercurial",
-        "logoURI": "MercurialIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/MercurialIcon.svg",
         "website": "https://www.mercurial.finance/"
     },
     {
         "id": 10,
         "name": "Cropper",
-        "logoURI": "CropperIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/CropperIcon.svg",
         "website": "https://cropper.finance/"
     },
     {
@@ -86,7 +86,7 @@
     {
         "id": 15,
         "name": "Cykura",
-        "logoURI": "CykuraIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/CykuraIcon.svg",
         "website": "https://cykura.io/"
     },
     {
@@ -98,25 +98,25 @@
     {
         "id": 17,
         "name": "Marinade",
-        "logoURI": "MarinadeIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/MarinadeIcon.png",
         "website": "https://marinade.finance/"
     },
     {
         "id": 18,
         "name": "GooseFX",
-        "logoURI": "GooseFxIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/GooseFxIcon.svg",
         "website": "https://goosefx.io/"
     },
     {
         "id": 19,
         "name": "Openbook",
-        "logoURI": "OpenbookIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/OpenbookIcon.png",
         "website": "https://www.openbook-solana.com/"
     },
     {
         "id": 20,
         "name": "Balansol",
-        "logoURI": "BalansolIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/BalansolIcon.svg",
         "website": ""
     },
     {
@@ -134,7 +134,7 @@
     {
         "id": 23,
         "name": "Marco Polo",
-        "logoURI": "MarcoPoloIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/MarcoPoloIcon.svg",
         "website": "https://marcopolo.so/"
     }
 ]
