@@ -2,13 +2,13 @@
     {
         "id": 1,
         "name": "Raydium",
-        "logoURI": "RaydiumIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/RaydiumIcon.svg",
         "website": "https://raydium.io"
     },
     {
         "id": 2,
         "name": "Serum",
-        "logoURI": "SerumIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/SerumIcon.svg",
         "website": "https://projectserum.com"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "name": "Saber",
-        "logoURI": "SaberIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/SaberIcon.svg",
         "website": "https://saber.so"
     },
     {
@@ -44,7 +44,7 @@
     {
         "id": 8,
         "name": "Symmetry",
-        "logoURI": "SymmetryIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/SymmetryIcon.png",
         "website": "https://symmetry.fi/"
     },
     {
@@ -62,25 +62,25 @@
     {
         "id": 11,
         "name": "Sencha",
-        "logoURI": "SenchaIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/SenchaIcon.jpg",
         "website": "https://sencha.so/"
     },
     {
         "id": 12,
         "name": "Saros",
-        "logoURI": "SarosIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/SarosIcon.svg",
         "website": "https://saros.finance/"
     },
     {
         "id": 13,
         "name": "Step",
-        "logoURI": "StepIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/StepIcon.svg",
         "website": "https://step.finance/"
     },
     {
         "id": 14,
         "name": "Penguin",
-        "logoURI": "PenguinIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/PenguinIcon.png",
         "website": "https://png.fi/"
     },
     {
@@ -92,7 +92,7 @@
     {
         "id": 16,
         "name": "Stepn",
-        "logoURI": "StepnIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/StepnIcon.png",
         "website": "https://stepn.com/"
     },
     {
@@ -122,13 +122,13 @@
     {
         "id": 21,
         "name": "Whirlpools",
-        "logoURI": "WhirlpoolsIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/WhirlpoolsIcon.svg",
         "website": "https://orca.so"
     },
     {
         "id": 22,
         "name": "Raydium CLMM",
-        "logoURI": "RaydiumCLMMIcon",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/RaydiumCLMMIcon.svg",
         "website": "https://raydium.io/clmm/pools"
     },
     {
