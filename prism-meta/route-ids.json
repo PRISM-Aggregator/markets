@@ -2,139 +2,139 @@
     {
         "id": 1,
         "name": "Raydium",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/RaydiumIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/RaydiumIcon.svg",
         "website": "https://raydium.io"
     },
     {
         "id": 2,
         "name": "Serum",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/SerumIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/SerumIcon.svg",
         "website": "https://projectserum.com"
     },
     {
         "id": 3,
         "name": "Aldrin",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/AldrinIcon.png",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/AldrinIcon.png",
         "website": "https://aldrin.com"
     },
     {
         "id": 4,
         "name": "Saber",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/SaberIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/SaberIcon.svg",
         "website": "https://saber.so"
     },
     {
         "id": 5,
         "name": "Orca",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/OrcaIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/OrcaIcon.svg",
         "website": "https://orca.so"
     },
     {
         "id": 6,
         "name": "Crema",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/CremaIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/CremaIcon.svg",
         "website": "https://www.crema.finance/"
     },
     {
         "id": 7,
         "name": "Lifinity",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/LifinityIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/LifinityIcon.svg",
         "website": "https://lifinity.io/"
     },
     {
         "id": 8,
         "name": "Symmetry",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/SymmetryIcon.png",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/SymmetryIcon.png",
         "website": "https://symmetry.fi/"
     },
     {
         "id": 9,
         "name": "Mercurial",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/MercurialIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/MercurialIcon.svg",
         "website": "https://www.mercurial.finance/"
     },
     {
         "id": 10,
         "name": "Cropper",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/CropperIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/CropperIcon.svg",
         "website": "https://cropper.finance/"
     },
     {
         "id": 11,
         "name": "Sencha",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/SenchaIcon.jpg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/SenchaIcon.jpg",
         "website": "https://sencha.so/"
     },
     {
         "id": 12,
         "name": "Saros",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/SarosIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/SarosIcon.svg",
         "website": "https://saros.finance/"
     },
     {
         "id": 13,
         "name": "Step",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/StepIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/StepIcon.svg",
         "website": "https://step.finance/"
     },
     {
         "id": 14,
         "name": "Penguin",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/PenguinIcon.png",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/PenguinIcon.png",
         "website": "https://png.fi/"
     },
     {
         "id": 15,
         "name": "Cykura",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/CykuraIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/CykuraIcon.svg",
         "website": "https://cykura.io/"
     },
     {
         "id": 16,
         "name": "Stepn",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/StepnIcon.png",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/StepnIcon.png",
         "website": "https://stepn.com/"
     },
     {
         "id": 17,
         "name": "Marinade",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/MarinadeIcon.png",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/MarinadeIcon.png",
         "website": "https://marinade.finance/"
     },
     {
         "id": 18,
         "name": "GooseFX",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/GooseFxIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/GooseFxIcon.svg",
         "website": "https://goosefx.io/"
     },
     {
         "id": 19,
         "name": "Openbook",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/OpenbookIcon.png",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/OpenbookIcon.png",
         "website": "https://www.openbook-solana.com/"
     },
     {
         "id": 20,
         "name": "Balansol",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/BalansolIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/BalansolIcon.svg",
         "website": ""
     },
     {
         "id": 21,
         "name": "Whirlpools",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/WhirlpoolsIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/WhirlpoolsIcon.svg",
         "website": "https://orca.so"
     },
     {
         "id": 22,
         "name": "Raydium CLMM",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/RaydiumCLMMIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/RaydiumCLMMIcon.svg",
         "website": "https://raydium.io/clmm/pools"
     },
     {
         "id": 23,
         "name": "Marco Polo",
-        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/MarcoPoloIcon.svg",
+        "logoURI": "https://raw.githubusercontent.com/PRISM-Aggregator/markets/main/icons/routes/MarcoPoloIcon.svg",
         "website": "https://marcopolo.so/"
     }
 ]
