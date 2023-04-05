@@ -331,6 +331,23 @@
 				"twitter": "https://twitter.com/arbprotocol",
 				"coingeckoId": "arb-protocol"
 			}
-		}
+		},
+		{
+			"chainId": 101,
+			"address": "o1Mw5Y3n68o8TakZFuGKLZMGjm72qv4JeoZvGiCLEvK",
+			"symbol": "Cope",
+			"name": "Cope",
+			"decimals": 2,
+			"logoURI": "https://shdw-drive.genesysgo.net/HNTiV9QS4UDrcxpucyKRGTKQTqKGLif61GwM6tpd5R5V/image.png",
+			"tags": [
+				"utility-token"
+			],
+			"extensions": {
+				"discord": "https://discord.gg/HuaWD5YmXD",
+				"twitter": "https://twitter.com/FrogsOnCope",
+				"coingeckoId": "cope-token"
+			}
+			} 
+			
 	]
 }
