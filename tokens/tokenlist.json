@@ -29,7 +29,9 @@
 			"name": "lambda.markets",
 			"decimals": 6,
 			"logoURI": "https://5mwz4y7cqrubxobjwzfsoawcjucbixqvsu6kyy4b3sloxuhqenfa.arweave.net/6y2eY-KEaBu4KbZLJwLCTQQUXhWVPKxjgdyW69DwI0o",
-			"tags": ["LMDA"],
+			"tags": [
+				"LMDA"
+			],
 			"extensions": {
 				"serumV3Usdc": "Epg66q6wPQbNyyegh8ZiP3iAgway4XFPS99UU3fzMaee"
 			}
@@ -41,7 +43,9 @@
 			"name": "Rafkróna",
 			"decimals": 2,
 			"logoURI": "https://rafmyntasjodur.github.io/iskt-metadata/logo.png",
-			"tags": ["ISKT"],
+			"tags": [
+				"ISKT"
+			],
 			"extensions": {
 				"serumV3Usdc": "7fcy5Mi4eQ8jxT1uThkpcYjC5FjjTojK9xSyKXQmHa1S"
 			}
@@ -82,17 +86,17 @@
 		},
 		{
 			"chainId": 101,
-      "address": "FfpyoV365c7iR8QQg5NHGCXQfahbqzY67B3wpzXkiLXr",
-      "symbol": "BOO",
-      "name": "Boo",
-      "decimals": 6,
-      "logoURI": "https://media.discordapp.net/attachments/1060796883687190536/1060801980034981919/boo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "twitter": "https://twitter.com/boo_solana"
-      }
+			"address": "FfpyoV365c7iR8QQg5NHGCXQfahbqzY67B3wpzXkiLXr",
+			"symbol": "BOO",
+			"name": "Boo",
+			"decimals": 6,
+			"logoURI": "https://media.discordapp.net/attachments/1060796883687190536/1060801980034981919/boo.png",
+			"tags": [
+				"utility-token"
+			],
+			"extensions": {
+				"twitter": "https://twitter.com/boo_solana"
+			}
 		},
 		{
 			"chainId": 101,
@@ -356,16 +360,30 @@
 			"decimals": 9,
 			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/logo.png",
 			"tags": [
-			  "utility-token",
-			  "stake-pool",
-			  "stake-pool-token"
+				"utility-token",
+				"stake-pool",
+				"stake-pool-token"
 			],
 			"extensions": {
-			  "github": "https://github.com/SolBlazeOrg",
-			  "twitter": "https://twitter.com/solblaze_org",
-			  "website": "https://stake.solblaze.org/",
-			  "coingeckoId": "blazestake-staked-sol"
+				"github": "https://github.com/SolBlazeOrg",
+				"twitter": "https://twitter.com/solblaze_org",
+				"website": "https://stake.solblaze.org/",
+				"coingeckoId": "blazestake-staked-sol"
 			}
-		  } 
+		},
+		{
+			"address": "BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52",
+			"chainId": 101,
+			"decimals": 9,
+			"name": "Only Possible On Solana",
+			"symbol": "OPOS",
+			"logoURI": "https://arweave.net/k8uU2yLoYwL4zTBZ-TO-7bs6hgtLNaHhzP4FLUMuaS0",
+			"tags": [
+				"community"
+			],
+			"extensions": {
+				"coingeckoId": "only-possible-on-solana"
+			}
+		}
 	]
 }
