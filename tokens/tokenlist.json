@@ -385,6 +385,19 @@
 				"coingeckoId": "only-possible-on-solana"
 			}
 		},
-		{"address":"HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3","chainId":101,"decimals":6,"name":"Pyth Network","symbol":"PYTH","logoURI":"https://pyth.network/token.svg","tags":["community"],"extensions":{"coingeckoId":"pyth-network"}}
+		{
+			"address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+			"chainId": 101,
+			"decimals": 6,
+			"name": "Pyth Network",
+			"symbol": "PYTH",
+			"logoURI": "https://pyth.network/token.svg",
+			"tags": [
+				"community"
+			],
+			"extensions": {
+				"coingeckoId": "pyth-network"
+			}
+		}
 	]
 }
