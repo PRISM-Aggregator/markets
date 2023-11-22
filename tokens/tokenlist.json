@@ -398,6 +398,7 @@
 			"extensions": {
 				"coingeckoId": "pyth-network"
 			}
-		}
+		},
+		{"address":"LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp","chainId":101,"decimals":6,"name":"Lifinity","symbol":"LFNTY","logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp/logo.svg","tags":["old-registry","solana-fm"],"extensions":{"coingeckoId":"lifinity"}}
 	]
 }
