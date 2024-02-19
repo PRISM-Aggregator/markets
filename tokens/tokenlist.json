@@ -587,6 +587,21 @@
 			"extensions": {
 				"coingeckoId": "jupiter-exchange-solana"
 			}
+		},
+		{
+			"address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
+			"chainId": 101,
+			"decimals": 6,
+			"name": "Nosana",
+			"symbol": "NOS",
+			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7/logo.png",
+			"tags": [
+				"old-registry",
+				"solana-fm"
+			],
+			"extensions": {
+				"coingeckoId": "nosana"
+			}
 		}
 	]
 }
