@@ -631,6 +631,16 @@
 			"extensions": {
 				"coingeckoId": "jupiter-perpetuals-liquidity-provider-token"
 			}
+		},
+		{
+			"address":"WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+			"chainId":101,
+			"decimals":5,
+			"name":"Wen",
+			"symbol":"WEN",
+			"logoURI":"https://shdw-drive.genesysgo.net/GwJapVHVvfM4Mw4sWszkzywncUWuxxPd6s9VuFfXRgie/wen_logo.png",
+			"tags":["community"],
+			"extensions":{"coingeckoId":"wen-4"}
 		}
 	]
 }
