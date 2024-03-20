@@ -699,6 +699,15 @@
 			"symbol":"DED",
 			"logoURI":"https://cdn.bridgesplit.com/?fit=crop&height=400&width=400&image=https://www.arweave.net/nE_JLSoMnDq5bOuQLO7-UhTvlOmC6264v90IVB7ntjQ?ext=gif",
 			"tags":["community"]
+		},
+		{
+			"address":"Ds52CDgqdWbTWsua1hgT3AuSSy4FNx2Ezge1br3jQ14a",
+			"chainId":101,
+			"decimals":6,
+			"name":"Dean's List",
+			"symbol":"DEAN",
+			"logoURI":"https://jvsqc5no3sgvr3ubjds3fwji52lzt7ktry55x26vxokwpn4zg3ma.arweave.net/TWUBda7cjVjugUjlstko7peZ_VOOO9vr1buVZ7eZNtg",
+			"tags":["community"]
 		}
 	]
 }
