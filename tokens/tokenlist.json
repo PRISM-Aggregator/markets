@@ -689,7 +689,7 @@
 			"symbol":"CHONKY",
 			"logoURI":"https://arweave.net/jH-VERoizM5gVhzJWT9ADkP7RJHIox8EcZBK_TcZ8AI",
 			"tags":["community"],
-			"extensions":{"coingeckoId":"chonky"}
+			"extensions":{"coingeckoId": "chonky"}
 		},
 		{
 			"address":"7raHqUrZXAqtxFJ2wcmtpH7SQYLeN9447vD4KhZM7tcP",
@@ -707,7 +707,8 @@
 			"name":"Dean's List",
 			"symbol":"DEAN",
 			"logoURI":"https://jvsqc5no3sgvr3ubjds3fwji52lzt7ktry55x26vxokwpn4zg3ma.arweave.net/TWUBda7cjVjugUjlstko7peZ_VOOO9vr1buVZ7eZNtg",
-			"tags":["community"]
+			"tags":["community"],
+			"extensions":{"coingeckoId": "dean-s-list"}
 		},
 		{
 			"address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
