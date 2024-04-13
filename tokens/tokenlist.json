@@ -708,6 +708,16 @@
 			"symbol":"DEAN",
 			"logoURI":"https://jvsqc5no3sgvr3ubjds3fwji52lzt7ktry55x26vxokwpn4zg3ma.arweave.net/TWUBda7cjVjugUjlstko7peZ_VOOO9vr1buVZ7eZNtg",
 			"tags":["community"]
+		},
+		{
+			"address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+			"chainId": 101,
+			"decimals": 6,
+			"name": "Wormhole Token",
+			"symbol": "W",
+			"logoURI": "https://wormhole.com/token.png",
+			"tags": ["community"],
+			"extensions": {"coingeckoId": "wormhole"}
 		}
 	]
 }
