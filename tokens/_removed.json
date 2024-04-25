@@ -1,0 +1,16 @@
+[
+	{
+		"address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+		"chainId": 101,
+		"decimals": 9,
+		"name": "Socean staked SOL",
+		"symbol": "scnSOL",
+		"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/logo.png",
+		"tags": [
+			"old-registry"
+		],
+		"extensions": {
+			"coingeckoId": "socean-staked-sol"
+		}
+	},
+]

@@ -472,20 +472,7 @@
 				"coingeckoId": "marinade"
 			}
 		},
-		{
-			"address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-			"chainId": 101,
-			"decimals": 9,
-			"name": "Socean staked SOL",
-			"symbol": "scnSOL",
-			"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/logo.png",
-			"tags": [
-				"old-registry"
-			],
-			"extensions": {
-				"coingeckoId": "socean-staked-sol"
-			}
-		},
+
 		{
 			"address": "RLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a",
 			"chainId": 101,
@@ -719,6 +706,16 @@
 			"logoURI": "https://wormhole.com/token.png",
 			"tags": ["community"],
 			"extensions": {"coingeckoId": "wormhole"}
+		},
+		{
+			"address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+			"chainId": 101,
+			"decimals": 9,
+			"name": "Infinity",
+			"symbol": "INF",
+			"logoURI": "https://cloudflare-ipfs.com/ipfs/bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e",
+			"tags": ["old-registry"],
+			"extensions": {"coingeckoId": "socean-staked-sol"}
 		}
 	]
 }
