@@ -716,6 +716,20 @@
 			"logoURI": "https://cloudflare-ipfs.com/ipfs/bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e",
 			"tags": ["old-registry"],
 			"extensions": {"coingeckoId": "socean-staked-sol"}
+		},
+		{
+			"address": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+			"chainId": 101,
+			"decimals": 9,
+			"name": "Bonk SOL",
+			"symbol": "bonkSOL",
+			"logoURI": "https://arweave.net/ms-FdIyJ8TxEJOb2SAYhfyrLop7TDrCEjD-I-oIl5u4",
+			"tags": [
+				"community"
+			],
+			"extensions": {
+				"coingeckoId": "bonk-staked-sol"
+			}
 		}
 	]
 }
