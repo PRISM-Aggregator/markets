@@ -760,6 +760,16 @@
 			"logoURI":"https://raw.githubusercontent.com/theISCTeam/isc_meta/master/logo.png",
 			"tags":["community"],
 			"extensions":{"coingeckoId":"international-stable-currency"}
+		},
+		{
+			"address":"Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B",
+			"chainId":101,
+			"decimals":9,
+			"name":"BybitSOL",
+			"symbol":"bbSOL",
+			"logoURI":"https://static.bymj.io/web3/staking/bbsol/bbsol2.png",
+			"tags":["community"],
+			"extensions":{"coingeckoId":"bybit-staked-sol"}
 		}
 	]
 }
