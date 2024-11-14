@@ -770,6 +770,16 @@
 			"logoURI":"https://static.bymj.io/web3/staking/bbsol/bbsol2.png",
 			"tags":["community"],
 			"extensions":{"coingeckoId":"bybit-staked-sol"}
+		},
+		{
+			"address":"CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+			"chainId":101,
+			"decimals":6,
+			"name":"Goatseus Maximus",
+			"symbol":"GOAT",
+			"logoURI":"https://ipfs.io/ipfs/QmapAq9WtNrtyaDtjZPAHHNYmpSZAQU6HywwvfSWq4dQVV",
+			"tags":["community"],
+			"extensions":{"coingeckoId":"goatseus-maximus"}
 		}
 	]
 }
